@@ -17,3 +17,11 @@
     - A `react` application is a tree of components with the `app` being the `root` bringing everything together.
 
 ## Setup
+- `vs-code`:
+  - Go to `File/Preferences/Settinges` write `format on save` and activate the checkbox.
+  - Install `prettier` extension
+- Install `node`
+## Creating a react app
+- `CRA` (Creating React App): official
+- `Vite`: faster and smaller bundle sizes.
+- 
